@@ -10,3 +10,8 @@ pressing SHIT+ALT+E will enable a modal tool to edit selected faces on the fly b
 - `S`: change saturation
 - `H`: change hue
 on exit you can further adjust value before commiting to the change.
+
+
+
+## NOTES
+Tested only on Blender 4.3
