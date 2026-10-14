@@ -1,0 +1,12 @@
+## VERTEX COLORS in EDIT MODE.
+
+Change the vertex colors using edit mode.
+It exists on the n+panel, and is pretty self explanatory.
+
+### MODAL
+pressing SHIT+ALT+E will enable a modal tool to edit selected faces on the fly by moving the mouse:
+- `O`: toggle overlays (off by default)
+- `V`: change value (on by default)
+- `S`: change saturation
+- `H`: change hue
+on exit you can further adjust value before commiting to the change.
